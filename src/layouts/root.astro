@@ -1,0 +1,26 @@
+---
+import "../styles/global.css";
+import Header from "../components/header.astro";
+
+const siteUrl = "https:laundrymat.vercel.app"
+
+---
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Laundry Mat</title>
+    <meta name="description" content="Fast & Fresh Laundry, Every Time" />
+
+    <link rel="icon" href="../assets/icons/logo.svg" type="image/svg+xml" />
+    <link rel="canonical" href={siteUrl}/>
+  </head>
+  <body class="flex justify-center bg-background text-foreground">
+        <div>
+          <main class="flex min-h-screen h-auto w-full max-w-[90rem] flex-col items-center px-6 pb-15 md:px-15 pt-0 text-[0.92rem] leading-relaxed">
+                <Header />
+          </main>
+        </div>
+  </body>
+</html>
