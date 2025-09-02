@@ -1,51 +1,31 @@
-# 🧑‍💻 Abhinav Peter – Portfolio Website
+# 🧺 Laundry Mat – Laundry & Ironing Services  
 
-This is a personal portfolio website designed and built by **Abhinav Peter** to showcase skills, experiences, and projects. The website is minimal, fast, and fully responsive, designed using **HTML**, **Tailwind CSS**, and lightweight **JavaScript**.
-
----
-
-## 🚀 Features
-
-* ⚡ Fast and responsive layout using Tailwind CSS utility classes
-* 💼 Professional experience and project highlights
-* 🎯 Status indicator: “Open to Work” badge with animation
-* 📨 Contact options including email, GitHub, and LinkedIn
-* 🌙 Dark theme for sleek modern feel
-* 📱 Mobile-friendly design with adaptive layout
+**Laundry Mat** is a modern laundry service website that showcases fast, reliable, and affordable laundry & ironing solutions.  
+The website is lightweight, mobile-friendly, and easy to navigate.  
 
 ---
 
-## 📁 Project Structure
+## 🚀 Features  
 
-```c
-portfolio/
-├── index.html
-├── styles/
-│   └── tailwind.css
-├── assets/
-│   ├── images/
-│   └── icons/
-├── scripts/
-│   └── main.js (optional interactivity)
-├── README.md
-└── ...
-```
+- ⏱️ **Fast turnaround** – Ironing in 24 hours, Laundry in 48 hours  
+- 💎 **Clean design** – simple, minimal, and professional  
+- 🧼 **Service highlights** – clearly presented laundry & ironing details  
+- 📞 **Easy contact** – email, phone, and location provided  
+- 📱 **Responsive** – works seamlessly on all devices  
 
 ---
 
-### 🛠️ Built With
+## 🧺 About Laundry Mat  
 
-* **HTML5**
-* **Tailwind CSS**
-* **SVG Icons** (Heroicons / SimpleIcons)
-* **JavaScript** for small UI enhancements
+At **Laundry Mat**, we believe laundry shouldn’t be a hassle.  
+That’s why we provide **fast, reliable, and affordable** laundry & ironing services with guaranteed turnaround times.  
 
----
+✨ Fresh clothes, every time.  
 
-### 📬 Contact
+## 👨‍💻 Built By  
 
-If you'd like to get in touch or collaborate, reach out to:
+Designed & developed by **Abhinav Peter**  
 
-* 📧 [abhinavpeter1999@gmail.com](mailto:abhinavpeter1999@gmail.com)
-* 🐙 [GitHub](https://github.com/Hello-ship-code)
-* 💼 [LinkedIn](https://linkedin.com/in/abhinav-peter)
+- 🐙 [GitHub](https://github.com/Hello-ship-code)  
+- 💼 [LinkedIn](https://linkedin.com/in/abhinav-peter)  
+- 📧 [abhinavpeter1999@gmail.com](mailto:abhinavpeter1999@gmail.com)
